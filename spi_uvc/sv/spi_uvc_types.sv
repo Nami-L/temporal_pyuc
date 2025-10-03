@@ -1,0 +1,4 @@
+`ifndef SPI_UVC_TYPES_SV
+`define SPI_UVC_TYPES_SV
+
+`endif // SPI_UVC_TYPES_SV
